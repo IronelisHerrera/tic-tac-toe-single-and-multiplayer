@@ -10,8 +10,6 @@ Install requirements.txt
 ```
 pip install -r requirements.txt
 ```
-
-
 run menu.py everything is set!
 ```
 python run menu.py
