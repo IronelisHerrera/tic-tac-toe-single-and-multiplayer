@@ -5,7 +5,7 @@ from tkinter import *
 from tkinter import messagebox
 import subprocess
 
-
+print(TkVersion)
 
 
 gui_tkinter = Tk()
