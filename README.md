@@ -1,16 +1,19 @@
 ## Getting started :
 You need Python 3 to run this project.
 
-Then, install library Tkinter in ubuntu (depending on your python version):
+- Install library Tkinter on ubuntu:
+
 ```
 sudo apt-get install python3.x-tk 
 ```
-Install requirements.txt
+or install requirements
 
 ```
 pip install -r requirements.txt
 ```
-run menu.py everything is set!
+Run menu.py - everything is set!
 ```
 python run menu.py
 ```
+
+
