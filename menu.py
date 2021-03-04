@@ -5,8 +5,6 @@ from tkinter import *
 from tkinter import messagebox
 import subprocess
 
-print(TkVersion)
-
 
 gui_tkinter = Tk()
 gui_tkinter.geometry("1250x650+0+0")
